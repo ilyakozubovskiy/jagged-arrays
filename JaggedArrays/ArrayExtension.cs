@@ -1,4 +1,6 @@
-﻿using System;
+using System;
+
+#pragma warning disable CA1814
 
 namespace JaggedArrays
 {
