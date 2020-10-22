@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+using System;
 using NUnit.Framework;
 
 #pragma warning disable CA1707
