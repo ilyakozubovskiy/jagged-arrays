@@ -1,7 +1,5 @@
 using System;
 
-#pragma warning disable CA1814
-
 namespace JaggedArrays
 {
     public static class ArrayExtension
