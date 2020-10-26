@@ -1,6 +1,6 @@
 using System;
 
-pragma warning disable S2368
+#pragma warning disable S2368
 
 namespace JaggedArrays
 {
