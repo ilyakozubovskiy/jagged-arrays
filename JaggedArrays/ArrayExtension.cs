@@ -1,5 +1,7 @@
 using System;
 
+pragma warning disable S2368
+
 namespace JaggedArrays
 {
     public static class ArrayExtension
